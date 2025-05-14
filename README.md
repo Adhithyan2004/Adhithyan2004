@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Adhithyan!
 
-🎓 A passionate Computer Science student at **Velammal Engineering College**, blending code and creativity as a **Full-Stack Developer**, **UI/UX Designer**, and **Graphic Artist**.
+🎓 A passionate Computer Science student, blending code and creativity as a **Full-Stack Developer**, **UI/UX Designer**, and **Graphic Artist**.
 
 ---
 
