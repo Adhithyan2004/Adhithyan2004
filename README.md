@@ -6,15 +6,15 @@
 
 ### 🧠 What I Do
 
-- 🎨 Designing seamless user experiences with **Figma**, **Affinity Photo**, and **Adobe Photoshop**
-- 💻 Building modern web apps using **React**, **TypeScript**, and **Tailwind CSS**
-- 🛠️ Developing scalable backends with **FastAPI** and **PostgreSQL**
-- 🌐 Deploying full-stack projects and exploring the world of **open-source**
-- 🚀 Continuously learning, shipping, and sharing what I build
+-  Designing seamless user experiences with **Figma**, **Affinity Photo**, and **Adobe Photoshop**
+-  Building modern web apps using **React**, **TypeScript**, and **Tailwind CSS**
+-  Developing scalable backends with **FastAPI** and **PostgreSQL**
+-  Deploying full-stack projects and exploring the world of **open-source**
+-  Continuously learning, shipping, and sharing what I build
 
 ---
 
-### 🧰 Tech Stack
+###  Tech Stack
 
 **Frontend**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
@@ -35,7 +35,7 @@
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adhithyan2004&show_icons=true&theme=radical" width="47%"/>
@@ -48,21 +48,19 @@
 
 ---
 
-### 🌱 Currently Exploring
+###  Currently Exploring
 
-- 📦 Open Source workflows & GitHub Actions  
-- 🧠 AI + UX tools using OpenAI & LangChain  
-- 🛡️ Authentication & Admin Role Systems  
-- 🌍 Hosting full-stack apps with **Railway** and **Vercel**
-
----
-
-### 📬 Let's Connect!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/adhithyan-banugoban-5b1515288/)
-- 🌐 [Portfolio](https://adhisfolio.vercel.app/) 
-- 📷 [Behance](https://www.behance.net/adhithybanugob)
+-  Open Source workflows & GitHub Actions  
+-  AI + UX tools using OpenAI & LangChain  
+-  Authentication & Admin Role Systems  
+-  Hosting full-stack apps with **Railway** and **Vercel**
 
 ---
 
-> “Design like an artist. Code like an engineer. Learn like a student. Build like a hacker.”
+###  Let's Connect!
+
+-  [LinkedIn](https://www.linkedin.com/in/adhithyan-banugoban-5b1515288/)
+-  [Portfolio](https://adhisfolio.vercel.app/) 
+-  [Behance](https://www.behance.net/adhithybanugob)
+
+
