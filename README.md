@@ -45,6 +45,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhithyan2004&layout=compact&theme=radical" width="47%"/>
 </p>
 
+[![Adhithyan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Adhithyan2004)](https://github.com/Adhithyan2004/github-readme-activity-graph)
 
 ---
 
