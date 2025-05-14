@@ -59,7 +59,7 @@
 
 ### 📬 Let's Connect!
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/adhithyan151](https://www.linkedin.com/in/adhithyan-banugoban-5b1515288/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/adhithyan-banugoban-5b1515288/)
 - 🌐 [Portfolio](https://adhisfolio.vercel.app/) 
 - 📷 [Behance](https://www.behance.net/adhithybanugob)
 
