@@ -47,7 +47,7 @@
 
 ## Activity graph
 
-[![Adhithyan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Adhithyan2004)](https://github.com/Adhithyan2004/github-readme-activity-graph)
+[![Adhithyan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Adhithyan2004)]
 
 ---
 
