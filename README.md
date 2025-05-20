@@ -44,6 +44,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhithyan2004&layout=compact&theme=radical" width="47%"/>
 </p>
+<p align = 'center'>
+  <img src="https://streak-stats.demolab.com?user=Adhithyan2004&theme=dark&hide_border=true" />
+</p>
 
 ## Activity graph
 
