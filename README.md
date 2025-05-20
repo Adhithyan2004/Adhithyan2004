@@ -38,11 +38,11 @@
 ###  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adhithyan2004&show_icons=true&theme=radical" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Adhithyan2004&theme=dark&show_icons=true&hide_border=true&count_private=true" width="47%"/>
 
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhithyan2004&layout=compact&theme=radical" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhithyan2004&theme=dark&show_icons=true&hide_border=true&layout=compact" width="47%"/>
 </p>
 <p align = 'center'>
   <img src="https://streak-stats.demolab.com?user=Adhithyan2004&theme=dark&hide_border=true" />
@@ -68,5 +68,7 @@
 -  [LinkedIn](https://www.linkedin.com/in/adhithyan-banugoban-5b1515288/)
 -  [Portfolio](https://adhisfolio.vercel.app/) 
 -  [Behance](https://www.behance.net/adhithybanugob)
+
+
 
 
