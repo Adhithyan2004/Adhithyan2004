@@ -3,7 +3,7 @@
 🎓 A passionate Computer Science student, blending code and creativity as a **Full-Stack Developer**, **UI/UX Designer**, and **Graphic Artist**.
 ---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adhithyan2004" alt="Adhi-Trophies" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adhithyan2004&theme=darkhub" alt="Adhi-Trophies" /></a> </p>
 
 ---
 
