@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Adhithyan!
+#  Hey there, I'm Adhithyan!
 
 🎓 A passionate Computer Science student, blending code and creativity as a **Full-Stack Developer**, **UI/UX Designer**, and **Graphic Artist**.
 ---
